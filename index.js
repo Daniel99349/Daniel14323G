@@ -1,4 +1,4 @@
-Daniel
+// Daniel
 
 const {
   WAConnection: _WAConnection,
